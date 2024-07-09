@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace ScottPlot;
+﻿namespace ScottPlot;
 
 /// <summary>
 /// Represents an line on screen defined by the endpoints, pattern, and style.

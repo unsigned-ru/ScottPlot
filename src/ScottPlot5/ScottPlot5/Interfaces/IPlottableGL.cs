@@ -1,6 +1,4 @@
-﻿using ScottPlot.Control;
-
-namespace ScottPlot;
+﻿namespace ScottPlot;
 
 /// <summary>
 /// This interface is applied to plottables which can be rendered directly on the GPU using an OpenGL shader

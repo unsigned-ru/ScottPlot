@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ScottPlot;
+﻿namespace ScottPlot;
 
 #nullable enable
 

@@ -1,6 +1,4 @@
-﻿using ScottPlot.AxisPanels;
-
-namespace ScottPlot.LayoutEngines;
+﻿namespace ScottPlot.LayoutEngines;
 
 /// <summary>
 /// Generate the layout by measuring all panels and adding

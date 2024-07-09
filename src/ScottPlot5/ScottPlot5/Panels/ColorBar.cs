@@ -1,6 +1,4 @@
-﻿using System.Data;
-
-namespace ScottPlot.Panels;
+﻿namespace ScottPlot.Panels;
 
 /// <summary>
 /// An axis panel which displays a colormap and range of values

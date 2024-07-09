@@ -2,8 +2,6 @@
 using ScottPlot.Plottables;
 using ScottPlot.DataSources;
 using ScottPlot.Plottable;
-using System.Numerics;
-using ScottPlot.Rendering.RenderActions;
 
 namespace ScottPlot;
 

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace ScottPlot.Statistics;
+﻿namespace ScottPlot.Statistics;
 
 public class Histogram
 {

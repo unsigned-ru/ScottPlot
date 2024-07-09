@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ScottPlot.Rendering;
+﻿namespace ScottPlot.Rendering;
 
 public class RenderManager(Plot plot)
 {

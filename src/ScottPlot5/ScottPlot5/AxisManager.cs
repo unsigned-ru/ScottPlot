@@ -1,6 +1,5 @@
 ﻿using ScottPlot.AxisPanels;
 using ScottPlot.Grids;
-using System.Linq;
 
 namespace ScottPlot;
 

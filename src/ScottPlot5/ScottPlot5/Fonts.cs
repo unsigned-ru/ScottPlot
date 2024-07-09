@@ -1,5 +1,4 @@
 ﻿using ScottPlot.FontResolvers;
-using System.Runtime.Serialization;
 
 namespace ScottPlot;
 

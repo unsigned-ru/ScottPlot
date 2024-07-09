@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.Design;
-
-namespace ScottPlot.Plottable;
+﻿namespace ScottPlot.Plottable;
 
 /// <summary>
 /// This class represents a single radial gauge.

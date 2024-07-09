@@ -1,6 +1,4 @@
-﻿using System.Data;
-
-namespace ScottPlot.Control;
+﻿namespace ScottPlot.Control;
 
 // TODO: refactor individual actions into their own classes which inherit IControlAction
 
